@@ -12,11 +12,11 @@
   <br/>
 * My goal is to become a senior front-end developer in the future ❤️. </h4>
 
-### Here are some about me:</br>
+### #Here are some about me:</br>
 - 🌱 I am learning now **TypeScript** ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
 - 👯 I’m looking for **Internship/Jop** so that I can start my career.
 
-### Learned- </br>
+### #Learned </br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-F16822?style=for-the-badge&logo=HTML5&logoColor=white)
