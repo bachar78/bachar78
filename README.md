@@ -1,5 +1,5 @@
 <h2>#Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's me Bachar Daowd</h2>
- <img align="right" alt="logo" height="50px" src="https://raw.githubusercontent.com/bachar78/bachar78/d2dea1c32f996b4b1b1bb3a2484985840177c427/Logo-pink.png" />
+ <img style="position: 0px auto" alt="logo" height="50px" src="https://raw.githubusercontent.com/bachar78/bachar78/d2dea1c32f996b4b1b1bb3a2484985840177c427/Logo-pink.png" />
 <h4 style="position: 0px auto"> 
 * I am Learning Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a> 
   <br/>
