@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-ff69b4?style=for-the-badge&logo=Sass&logoColor=white)
-![](https://img.shields.io/badge/Redux-ff69b4?style=for-the-badge&logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 
 
 
