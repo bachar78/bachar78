@@ -27,7 +27,10 @@
 ![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![](https://img.shields.io/badge/-Framer--Motion-0055FF?style=for-the-badge&logo=Framer&logoColor=white)
 
+### 🤝🏻 &nbsp;Connect with Me ?
 
+ [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bachar.daowd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bachar-daowd/)
 
 
 
