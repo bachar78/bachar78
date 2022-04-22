@@ -4,7 +4,7 @@
 * I am Learning Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a> 
   <br/>
   <br/>
-* I love to build a MERN projects creating database and connecting backend with frontend
+* I like to build a MERN projects creating database and connecting backend with frontend
   <br/>
   <br/>
 * I'm deeply engaged in React, Redux and NodeJs right now.
