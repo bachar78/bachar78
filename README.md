@@ -9,7 +9,7 @@
 * My goal is to become a senior front-end developer in the future ❤️. </h4>
 
 ### Here are some about me:</br>
-- 🌱 My next step is to learn **TypeScript**
+- 🌱 I am learning now **TypeScript** ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
 - 👯 I’m looking for **Internship/Jop** so that I can start my career.
 
 ### I know more about- </br>
