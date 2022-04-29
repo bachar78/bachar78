@@ -13,8 +13,9 @@
 * My goal is to become a senior front-end developer in the future ❤️. </h4>
 
 ### #Here are some about me:</br>
-- 🌱 I am learning now **TypeScript** ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
-- 👯 I’m looking for **Internship/Jop** so that I can start my career.
+- I am learning now **TypeScript** ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
+- Next Step is learining **Angular** ![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=Angular&logoColor=white&color=dd1b16)
+- I’m looking for **Internship/Jop** so that I can start my career.
 
 ### #Learned </br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,7 +28,7 @@
 ![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![](https://img.shields.io/badge/-Framer--Motion-0055FF?style=for-the-badge&logo=Framer&logoColor=white)
 
-### 🤝🏻 &nbsp;Connect with Me ?
+### &nbsp;Connect with Me ?
 
  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bachar.daowd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bachar-daowd/)
