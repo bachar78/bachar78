@@ -14,7 +14,7 @@
 
 ### #Here are some about me:</br>
 - I am learning now **TypeScript** ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
-- Next Step is learining **Angular** ![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=Angular&logoColor=white&color=dd1b16)
+- Next Step is learining **GraphQL** ![](https://img.shields.io/badge/-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=e535ab)
 - I’m looking for **Internship/Jop** so that I can start my career.
 
 ### #Learned </br>
