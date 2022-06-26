@@ -1,7 +1,7 @@
 <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> It's me Bachar Daowd  <img style="position: 0px auto" alt="logo" height="30px" src="https://raw.githubusercontent.com/bachar78/bachar78/d2dea1c32f996b4b1b1bb3a2484985840177c427/Logo-pink.png" /></h2>
 
 <h4 style="position: 0px auto"> 
-* I am Learning Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a> 
+* I studied Full Stack Development at <a href="https://github.com/orgs/HackYourFuture/dashboard">HackYourFuture - Amsterdam.</a> 
   <br/>
   <br/>
 * I like to build a MERN projects creating database and connecting backend with frontend
@@ -10,7 +10,7 @@
 * I'm deeply engaged in React, Redux and NodeJs right now.
   <br/>
   <br/>
-* My goal is to become a senior front-end developer in the future ❤️. </h4>
+* My goal is to become a Senior Full Stack Developer in the future ❤️. </h4>
 
 ### #Here are some about me:</br>
 - I am learning now **TypeScript** ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
