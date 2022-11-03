@@ -13,8 +13,8 @@
 * My goal is to become a Senior Full Stack Developer in the future ❤️. </h4>
 
 ### #Here are some about me:</br>
-- I am learning now **Java** ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
-- Next Step is learining **Azure** ![](https://img.shields.io/badge/-Azure-informational?style=flat&logo=GraphQL&logoColor=white&color=e535ab)
+- I am learning now **Java** 
+- Next Step is learining **Azure**
 
 ### #Learned </br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
